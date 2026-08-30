@@ -70,7 +70,7 @@ Dashboard Overview
 Dashboard Analysis
 
 Project Demonstration
-[ Watch the Capstone Project Demo](Screen%20recording%20for%20capstone%20project.mp4)
+
 
 Watch the Capstone Project Demo
 
