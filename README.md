@@ -55,15 +55,15 @@ Key Performance Indicators (KPIs)
 
 Dashboard Screenshots
 
-![Dashboard Screenshot 1](screenshots/Capstone%20project%20sc1.png)
+https://github.com/bodeidris/Agricultural_output_by_state_capstone/blob/main/screenshorts/Capstone%20project%20sc1.PNG
 
-![Dashboard Screenshot 2](screenshots/Capstone%20project%20sc%202.png)
+https://github.com/bodeidris/Agricultural_output_by_state_capstone/blob/main/screenshorts/Capstone%20project%20sc%202.PNG
 
-![Dashboard Screenshot 3](screenshots/Capstone%20project%20sc%203.png)
+https://github.com/bodeidris/Agricultural_output_by_state_capstone/blob/main/screenshorts/capstone%20project%20sc%203.PNG
 
-![Dashboard Screenshot 4](screenshots/Capstone%20project%20sc%204.png)
+https://github.com/bodeidris/Agricultural_output_by_state_capstone/blob/main/screenshorts/capstone%20project%20sc%204.PNG
 
-![Dashboard Screenshot 5](screenshots/Capstone%20project%20sc%205.png)
+https://github.com/bodeidris/Agricultural_output_by_state_capstone/blob/main/screenshorts/capstone%20project%20sc%205.PNG
 
 Dashboard Overview
 
