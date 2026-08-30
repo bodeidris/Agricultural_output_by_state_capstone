@@ -70,7 +70,7 @@ Dashboard Overview
 Dashboard Analysis
 
 Project Demonstration
-
+https://github.com/bodeidris/Agricultural_output_by_state_capstone/blob/main/Capstone%20project%20video.mp4
 
 Watch the Capstone Project Demo
 
