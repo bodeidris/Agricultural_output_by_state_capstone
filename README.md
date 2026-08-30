@@ -55,6 +55,16 @@ Key Performance Indicators (KPIs)
 
 Dashboard Screenshots
 
+![Dashboard Screenshot 1](screenshots/Capstone%20project%20sc1.png)
+
+![Dashboard Screenshot 2](screenshots/Capstone%20project%20sc%202.png)
+
+![Dashboard Screenshot 3](screenshots/Capstone%20project%20sc%203.png)
+
+![Dashboard Screenshot 4](screenshots/Capstone%20project%20sc%204.png)
+
+![Dashboard Screenshot 5](screenshots/Capstone%20project%20sc%205.png)
+
 Dashboard Overview
 
 Dashboard Analysis
